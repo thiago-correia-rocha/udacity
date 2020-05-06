@@ -6,7 +6,15 @@ Uderstanding USA's Bikeshare Systems
 
 ### Description
 The project capture some filters from users (like month or day of week, city) and show the statistics (like age, most commom start/end station, avg. trip duration) for this filters based on dataset.
+<<<<<<< Updated upstream
 Some of aks are:
+||||||| merged common ancestors
+The users can perform as many searches as they wish.
+Some of aks are:
+=======
+The users can perform as many searches as they wish.
+Some of asks are:
+>>>>>>> Stashed changes
 What is the most popular month?
 What is the most popular day of week?
 What is the most popular hour of day?
