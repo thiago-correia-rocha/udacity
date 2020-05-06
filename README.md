@@ -28,6 +28,9 @@ washington.csv
 new_york_city.csv
 chicago.csv
 
+###ADDITIONAL FEATURES
+A addicional dashboard was made to visualizate the datasets.
+The Dashboard is avaible in https://thiagorocha.com/usas-bike-share-systems/
 
 ### Credits
 #learning intresting commands in Pandas like .max(), .min(), .mean()
