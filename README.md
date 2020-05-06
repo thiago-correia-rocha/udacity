@@ -28,7 +28,7 @@ washington.csv
 new_york_city.csv
 chicago.csv
 
-###ADDITIONAL FEATURES
+### Additional Features
 A addicional dashboard was made to visualizate the datasets.
 The Dashboard is avaible in https://thiagorocha.com/usas-bike-share-systems/
 
